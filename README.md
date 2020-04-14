@@ -9,3 +9,6 @@ Created by Maximilian Schwarzmüller
 Last updated 12/2019
  English
  English, French [Auto-generated], 9 more
+
+
+3. Extending the VueJS Application
