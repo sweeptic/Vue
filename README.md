@@ -11,4 +11,4 @@ Last updated 12/2019
  English, French [Auto-generated], 9 more
 
 
-3. Extending the VueJS Application
+6. Setup VueJS Locally
