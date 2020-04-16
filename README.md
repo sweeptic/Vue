@@ -10,5 +10,5 @@ Last updated 12/2019
  English
  English, French [Auto-generated], 9 more
 
-
-6. Setup VueJS Locally
+2. Using VueJS to Interact with the DOM
+1. Module Introduction
